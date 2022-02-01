@@ -1,14 +1,14 @@
 {
-	"prefix": "ab ",
-	"ownerId": "382869186042658818",
-	"clientId": "826609045569929247",
+	"prefix": "-",
+	"ownerId": "502823349110571008",
+	"clientId": "937774968488476702",
 	"testGuildId": "775798875356397608",
 	"devMode": true,
 	"enabledModules": ["giveaways", "moderation", "whois", "meme", "pokemon"],
 	"params": {
-		"embedColor": "#06476d",
-		"botName": "Artibot [dev]",
-		"botIcon": "https://artivain.com/wp-content/uploads/2021/01/logo-artivain-nouveau-fav-512.png",
+		"embedColor": "#a8caff",
+		"botName": "Guardian",
+		"botIcon": "",
 		"advancedCorePing": true,
 		"checkForUpdates": "stable"
 	}
